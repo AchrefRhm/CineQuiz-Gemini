@@ -14,7 +14,7 @@ import VueKinesis from 'vue-kinesis'
 import {API_BASE_URI} from "./config.js"
 
 export const firebaseApp = initializeApp({
-    apiKey: "AIzaSyBGlPfTQpNVpMS3Nu_mpSiEOwIXXE-PE74",
+    apiKey: "..",
     authDomain: "gemini-movie-detectives.firebaseapp.com",
     projectId: "gemini-movie-detectives",
     storageBucket: "gemini-movie-detectives.appspot.com",
