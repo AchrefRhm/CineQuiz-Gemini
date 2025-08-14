@@ -6,7 +6,6 @@ Gemini Movie Detectives harnesses Google's AI to revolutionize educational gamin
 into a proof-of-concept gateway for AI-driven, adaptive learning across all subjects, challenging your inner
 movie nerd while showcasing how AI can reshape education in schools and universities.
 
-**Try it yourself**: [movie-detectives.com](https://movie-detectives.com/)
 
 ## Backend
 
@@ -65,8 +64,6 @@ for accessible, engaging, and effective learning experiences.
 *Game mode: Sequel Salad*
 
 ---
-
-**Backend**: [gemini-movie-detectives-api](https://github.com/vojay-dev/gemini-movie-detectives-api)
 
 ## Tech stack and project overview
 
